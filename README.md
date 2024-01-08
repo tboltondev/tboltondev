@@ -4,7 +4,7 @@
 
 #### 🛠️ Main Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,docker,java,spring,aws,dynamodb,nestjs,nextjs,postgres,mysql,mongodb,rabbitmq,redis,html,css,vim.neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,docker,java,spring,aws,dynamodb,nestjs,nextjs,postgres,mysql,mongodb,rabbitmq,redis,html,css,vim,neovim)](https://skillicons.dev)
 
 ### 📚 Things I'm learning
 
