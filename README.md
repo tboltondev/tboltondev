@@ -2,7 +2,7 @@
 
 - 4+ years as a full-stack dev
 
-#### Languages & Tools
+#### Main Languages & Tools
 <img align="left" alt="javascript" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="typescript" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="nodejs" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
