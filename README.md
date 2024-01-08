@@ -2,7 +2,7 @@
 
 - 4+ years as a full-stack dev
 
-#### Main Languages & Tools
+#### 🛠️ Main Languages & Tools
 <img align="left" alt="javascript" width="40px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="typescript" width="40px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="nodejs" width="40px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -19,6 +19,8 @@
 <img align="left" alt="redux" width="40px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="vim" width="40px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <img align="left" alt="nextjs" width="40px" style="margin:5px;filter:invert(100%) sepia(0%) saturate(0%) hue-rotate(193deg) brightness(102%) contrast(103%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+
+### 📚 Things I'm learning
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
