@@ -1,11 +1,11 @@
-## abu-hiba
+# abu-hiba
 
 - 4+ years as a full-stack dev
 
-### 🛠️ Main Languages & Tools
+## 🛠️ Main Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,docker,java,spring,aws,dynamodb,nestjs,nextjs,postgres,mysql,mongodb,rabbitmq,redis,html,css,vim,neovim)](https://skillicons.dev)
 
-### 📚 Things I'm currently learning
+## 📚 Things I'm currently learning
 [![Learning](https://skillicons.dev/icons?i=cpp,cmake,wasm,terraform)](https://skillicons.dev)
 
 <!--
