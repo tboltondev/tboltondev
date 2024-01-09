@@ -5,12 +5,10 @@
 ## 🛠️ Things that I've worked with
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,docker,java,spring,aws,dynamodb,nestjs,nextjs,postgres,mysql,mongodb,rabbitmq,redis,html,css,vim,neovim)](https://skillicons.dev)
 
----
 ## 📚 Things I'm currently learning
 [![Learning](https://skillicons.dev/icons?i=cpp,cmake,wasm,terraform)](https://skillicons.dev)
 
----
-<!-- ## GitHub Stats
+## GitHub Stats
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=abu-hiba&theme=tokyonight&count_private=true&hide_border=true&line_height=20)</a> -->
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abu-hiba&layout=compact&theme=tokyonight&count_private=true&hide_border=true)</a>
 <!--
