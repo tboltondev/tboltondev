@@ -1,11 +1,11 @@
-## Tom Bolton
+# Tom Bolton
 
 - 4+ years as a full-stack dev
 
-### 🛠️ Things that I've worked with
+## 🛠️ Things that I've worked with
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,docker,java,spring,aws,dynamodb,nestjs,nextjs,postgres,mysql,mongodb,rabbitmq,redis,html,css,vim,neovim)](https://skillicons.dev)
 
-### 📚 Things I'm currently learning
+## 📚 Things I'm currently learning
 [![Learning](https://skillicons.dev/icons?i=cpp,cmake,wasm,terraform)](https://skillicons.dev)
 
 <!--
