@@ -9,8 +9,8 @@
 [![Learning](https://skillicons.dev/icons?i=cpp,cmake,wasm,terraform)](https://skillicons.dev)
 
 ## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abu-hiba&theme=tokyonight&count_private=true&hide_border=true)] (https://github.com/abu-hiba)
-[![Github stats](https://github-readme-stats.vercel.app/api?username=abu-hiba&theme=tokyonight&count_private=true&hide_border=true&line_height=20)] (https://github.com/abu-hiba)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abu-hiba&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/abu-hiba)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=abu-hiba&theme=tokyonight&count_private=true&hide_border=true&line_height=20)](https://github.com/abu-hiba)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
