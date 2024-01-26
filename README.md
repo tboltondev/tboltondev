@@ -1,6 +1,6 @@
 # Tom Bolton
 
-- 4+ years as a full-stack dev
+Full Stack Developer
 
 ## 🛠️ Things that I've worked with
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,docker,java,spring,aws,dynamodb,nestjs,nextjs,postgres,mysql,mongodb,rabbitmq,redis,html,css,vim,neovim)](https://skillicons.dev)
