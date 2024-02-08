@@ -2,8 +2,13 @@
 
 Full Stack Developer
 
-## 🛠️ Things that I've worked with
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,docker,java,spring,aws,dynamodb,nestjs,nextjs,postgres,mysql,mongodb,rabbitmq,redis,html,css,vim,neovim)](https://skillicons.dev)
+| 🛠️ | Things that I've worked with |
+|---|---|
+| Web |[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,express,nestjs,nextjs,html,css)](https://skillicons.dev)|
+| Java |[![My Skills](https://skillicons.dev/icons?i=java,spring,gradle)](https://skillicons.dev)|
+| DBs |[![My Skills](https://skillicons.dev/icons?i=dynamodb,postgres,mysql,mongodb,redis,sqlite,firebase)](https://skillicons.dev)|
+| Misc |[![My Skills](https://skillicons.dev/icons?i=docker,aws,rabbitmq)](https://skillicons.dev)|
+| Terminal |[![My Skills](https://skillicons.dev/icons?i=bash,vim,neovim)](https://skillicons.dev)|
 
 ## 📚 Things I'm currently learning
 [![Learning](https://skillicons.dev/icons?i=cpp,cmake,wasm,terraform)](https://skillicons.dev)
