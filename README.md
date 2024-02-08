@@ -4,8 +4,8 @@ Full Stack Developer
 
 | 🛠️ | Things that I've worked with |
 |---|---|
-| Web |[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,express,nestjs,nextjs,html,css)](https://skillicons.dev)|
-| Java |[![My Skills](https://skillicons.dev/icons?i=java,spring,gradle)](https://skillicons.dev)|
+| Frontend |[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css)](https://skillicons.dev)|
+| Backend |[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,java,spring)](https://skillicons.dev)|
 | DBs |[![My Skills](https://skillicons.dev/icons?i=dynamodb,postgres,mysql,mongodb,redis,sqlite,firebase)](https://skillicons.dev)|
 | Misc |[![My Skills](https://skillicons.dev/icons?i=docker,aws,rabbitmq)](https://skillicons.dev)|
 | Terminal |[![My Skills](https://skillicons.dev/icons?i=bash,vim,neovim)](https://skillicons.dev)|
