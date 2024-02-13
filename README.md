@@ -1,5 +1,3 @@
-# Tom Bolton
-
 Full Stack Developer
 
 | 🛠️ | Things that I've worked with |
