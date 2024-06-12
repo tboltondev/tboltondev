@@ -1,6 +1,6 @@
 # Tom Bolton
 
-Full Stack Developer
+Web Developer with over 5 years of experience, predominantly with JavaScript/TypeScript on both backend and frontend.
 
 ## 🛠️ Main Skills
 JavaScript/TypeScript
