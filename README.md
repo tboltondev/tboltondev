@@ -35,7 +35,7 @@ Other
 -->
 
 ## 📚 Things I'm currently learning
-[![Learning](https://skillicons.dev/icons?i=rust,wasm,terraform)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=terraform,wasm,rust)](https://skillicons.dev)
 
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abu-hiba&layout=compact&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/abu-hiba)
