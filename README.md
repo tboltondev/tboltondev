@@ -18,7 +18,7 @@ SQL & NoSQL Databases
 [![Main Skills](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
 [![Main Skills](https://skillicons.dev/icons?i=redis)](https://redis.io)
 
-Cloud Computing, Infrastructure
+Other
 
 [![Main Skills](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
 [![Main Skills](https://skillicons.dev/icons?i=docker)](https://docker.com)
