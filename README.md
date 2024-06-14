@@ -1,6 +1,6 @@
 # Tom Bolton
 
-Web Developer with over 5 years of experience, predominantly with JavaScript/TypeScript on both backend and frontend.
+Web Developer with 6 years of experience, predominantly with JavaScript/TypeScript on both backend and frontend.
 
 ## 🛠️ Main Skills
 JavaScript/TypeScript
